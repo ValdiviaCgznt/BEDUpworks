@@ -1,0 +1,23 @@
+Historia de Usuario
+
+AS un usuario I WANT poder registrarme utilizando mi correo, cuenta de facebook o google SO puedo ingresar a la aplicación con mi cuenta
+
+GIVEN un usuario WHEN ingresa una contraseña incorrecta THEN el sistema se lo indicará.
+
+GIVEN un usuario WHEN ingresa un correo electrónico no registrado THEN  el sistema se lo indicará
+
+GIVEN un usuario WHEN intenta iniciar sesión con un correo electrónico ligado a una cuenta de Google de la que ya existe una cuenta THEN se le indica que el correo indicado ya está registrado y que utilice el botón de Google
+
+GIVEN un usuario WHEN intente iniciar sesión con un correo electrónico ligado a una cuenta de Facebook de la que ya existe una cuenta THEN se le indica que el correo indicado ya está registrado y que utilice el botón de Facebook
+
+Historia de Usuario
+
+AS un usuario I WANT poder registrarme utilizando mi correo, cuenta de facebook o google SO puedo ingresar a la aplicación con mi cuenta
+
+GIVEN un usuario WHEN ingresa una contraseña incorrecta THEN el sistema se lo indicará.
+
+GIVEN un usuario WHEN ingresa un correo electrónico no registrado THEN  el sistema se lo indicará
+
+GIVEN un usuario WHEN intenta iniciar sesión con un correo electrónico ligado a una cuenta de Google de la que ya existe una cuenta THEN se le indica que el correo indicado ya está registrado y que utilice el botón de Google
+
+GIVEN un usuario WHEN intente iniciar sesión con un correo electrónico ligado a una cuenta de Facebook de la que ya existe una cuenta THEN se le indica que el correo indicado ya está registrado y que utilice el botón de Facebook
